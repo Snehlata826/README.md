@@ -1,56 +1,79 @@
-# README.md
+# Hi, I'm Snehlata Kumari
 
-<h1 align="center">Hi 👋, I'm Snehlata Kumari</h1>
-<h3 align="center">Aspiring Data Scientist </h3>
+## Data Scientist | AI & Machine Learning | NLP | Conversational AI
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=snehlata826&label=Profile%20views&color=0e75b6&style=flat" alt="snehlata826" />
-</p>
-
-- 🔭 I’m currently working on **Foundational Model for Satellite Images**  
-- 🌱 I’m currently learning **LangChain**  
-- 📫 How to reach me **kumarisnehlata2005@gmail.com**  
+I am a Data Scientist with hands-on experience in Machine Learning, NLP, and
+Conversational AI, working on real-world datasets and end-to-end ML systems.
+I focus on building reliable, scalable, and data-driven AI solutions.
 
 ---
 
-### Connect with me:
+## 🔍 Areas of Expertise
+- Conversational AI & NLP
+- Machine Learning & Deep Learning
+- Computer Vision (Vision Transformers)
+- Data Analysis & Model Evaluation
+- Retrieval-Augmented Generation (RAG)
+
+## 🛠 Tech Stack
+
+### 🧠 Programming Languages
 <p align="left">
-<a href="https://www.linkedin.com/in/snehlata-kumari-b68285299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/23bced40/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/kumarisneh1ryw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </p>
+
+### 🤖 Machine Learning & Deep Learning
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" height="40"/>
+</p>
+
+### 🗣 NLP & Conversational AI
+<p align="left">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40" height="40"/>
+</p>
+
+### 📊 Data Analysis & Visualization
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/>
+</p>
+
+### 🚀 Deployment & APIs
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" width="40" height="40"/>
+</p>
+
+### 🛠 Tools & Platforms
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
+</p>
+---
+
+## 🚀 Featured Work
+- **RAG-Based PDF Question Answering System**  
+  Built a semantic search and Q&A system using FAISS and Sentence Transformers,
+  enabling real-time document-based responses.
+
+- **Conversational AI Testing & Analysis**  
+  Executed 50+ conversational test flows and analyzed 5,000+ chat logs to improve
+  intent recognition and response quality.
+
+- **Vision Transformer for Satellite Imagery**  
+  Trained ViT models for satellite image analysis, achieving high accuracy on
+  labeled and semi-supervised datasets.
 
 ---
 
-### 🖥️ Languages
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-</p>
-
----
-
-### 📚 Libraries
-<p align="left">
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-<a href="https://numpy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40" height="40"/></a>
-<a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/></a>
-<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
-<a href="https://keras.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40"/></a>
-</p>
-
----
-
-### 🛠️ Software Tools
-<p align="left">
-<a href="https://colab.research.google.com/" target="_blank"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" height="40"/></a>
-</p>
-
----
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehlata826&" alt="snehlata826" /></p>
+## 📫 Connect with Me
+- **LinkedIn:** https://www.linkedin.com/in/snehlata-kumari-b68285299  
+- **Email:** kumarisnehlata2005@gmail.com

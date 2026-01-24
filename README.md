@@ -2,7 +2,7 @@
 
 ## Data Scientist | AI & Machine Learning | NLP | Conversational AI
 
-I am a Data Scientist with hands-on experience in Machine Learning, NLP, and
+I am a aspiring  Data Scientist with hands-on experience in Machine Learning, NLP, and
 Conversational AI, working on real-world datasets and end-to-end ML systems.
 I focus on building reliable, scalable, and data-driven AI solutions.
 

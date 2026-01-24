@@ -1,79 +1,83 @@
-# Hi, I'm Snehlata Kumari
+<h1 align="center">Hi 👋, I'm Snehlata Kumari</h1>
 
-## Data Scientist | AI & Machine Learning | NLP | Conversational AI
+<p align="center">
+  🚀 Learning • Building • Exploring | Data Science & AI
 
-I am a aspiring  Data Scientist with hands-on experience in Machine Learning, NLP, and
-Conversational AI, working on real-world datasets and end-to-end ML systems.
-I focus on building reliable, scalable, and data-driven AI solutions.
+</p>
+
+<p align="center">
+  <span style="color:#00e5ff;">
+Building data-driven AI solutions with real-world impact
+</span>
+
+</p>
 
 ---
 
-## 🔍 Areas of Expertise
-- Conversational AI & NLP
-- Machine Learning & Deep Learning
-- Computer Vision (Vision Transformers)
-- Data Analysis & Model Evaluation
-- Retrieval-Augmented Generation (RAG)
+## 👩‍💻 About Me
+<img align="right" alt="Coding Girl" width="420"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## 🛠 Tech Stack
 
-### 🧠 Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</p>
+-- 🌱 Currently exploring **LLMs and Generative AI**
+- 🎯 Interested in building **scalable, real-world AI systems**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, NLP, Conversational AI, and RAG**
+- 📫 Reach me at **kumarisnehlata2005@gmail.com**
 
-### 🤖 Machine Learning & Deep Learning
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" height="40"/>
-</p>
-
-### 🗣 NLP & Conversational AI
-<p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40" height="40"/>
-</p>
-
-### 📊 Data Analysis & Visualization
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/>
-</p>
-
-### 🚀 Deployment & APIs
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40"/>
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" width="40" height="40"/>
-</p>
-
-### 🛠 Tools & Platforms
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
-</p>
----
-
-## 🚀 Featured Work
-- **RAG-Based PDF Question Answering System**  
-  Built a semantic search and Q&A system using FAISS and Sentence Transformers,
-  enabling real-time document-based responses.
-
-- **Conversational AI Testing & Analysis**  
-  Executed 50+ conversational test flows and analyzed 5,000+ chat logs to improve
-  intent recognition and response quality.
-
-- **Vision Transformer for Satellite Imagery**  
-  Trained ViT models for satellite image analysis, achieving high accuracy on
-  labeled and semi-supervised datasets.
 
 ---
 
-## 📫 Connect with Me
-- **LinkedIn:** https://www.linkedin.com/in/snehlata-kumari-b68285299  
-- **Email:** kumarisnehlata2005@gmail.com
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/snehlata-kumari-b68285299" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/23bced40/" target="_blank">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/kumarisneh1ryw?tab=activity" target="_blank">
+    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,js,tensorflow,pytorch,keras,numpy,pandas,sklearn,seaborn,flask,fastapi,mysql,mongodb,linux,git,github" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- **URIVON ’26 – Runner-Up | Eco Hack Hackathon**  
+  AI-powered system for **landfill & deforestation detection** using satellite imagery, geolocation,  
+  and citizen-uploaded photos, with **confidence-based alerts** sent to authorities.
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snehlata-kumari&show_icons=true&theme=github_dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=snehlata-kumari&show_icons=true&theme=github_dark&hide_border=true" />
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehlata-kumari&theme=github-dark" />
+</p>
+
+---
+
+⭐ *Thank you for visiting my profile!*
+---
+📌 *Open to internships, hackathons, and collaborative AI projects.*
+
